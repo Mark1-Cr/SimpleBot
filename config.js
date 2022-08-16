@@ -1,8 +1,8 @@
 global.DeveloperMode = 'false' 
 global.linkGC = []
-global.owner = ['5219996125657']
-global.mods = [] 
-global.prems = [] 
+mundial _ propietario  = [ '51917497192' ]
+mundial _ modificaciones  = []
+mundial _ prem  = []
 global.APIs = { 
   nrtm: 'https://nurutomo.herokuapp.com',
   xteam: 'https://api.xteam.xyz',
